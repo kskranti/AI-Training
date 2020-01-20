@@ -50,9 +50,9 @@ def get_multiple_data():
 myclient.close()
 
 
-data = {"name": "Kranti Kumar Singh", "address": "Noida"}
-id = insert_data(data)
-print(id)
+##data = {"name": "Kranti Kumar Singh", "address": "Noida"}
+##id = insert_data(data)
+##print(id)
 
 #update_or_create('5d91dee8c37790d73e01d6f0',data)
 
